@@ -30,7 +30,7 @@ Before you can run the script, you must give it permission to execute:
   ```
 
 ### 2. Run the Script
-- **Option A (Double-Click):** Double-click `cirnodeck.sh` in the file manager and select **Install** or **Uninstall** then click **Run** to execute.
+- **Option A (Double-Click):** Double-click `cirnodeck.sh` in the file manager.
 - **Option B (Terminal):** Right-click in the folder, select **Open Terminal Here**, type `./cirnodeck.sh`, and press **Enter**.
 
 ### 3. Follow the Prompts
